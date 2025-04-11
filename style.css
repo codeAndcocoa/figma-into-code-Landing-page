@@ -154,6 +154,7 @@ body {
     margin-left: 9rem;
 }
 .hero-title h1{
+    font-size:2rem;
     color: var(--neutral6);
     font-weight: var(--semiBold-weight);
     margin-bottom: 1rem;
